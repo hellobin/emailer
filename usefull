@@ -1,0 +1,67 @@
+常用邮箱对应的发送参数配置表
+  邮箱                  POP3                     SMTP             
+yahoo.cn	  	POP.mail.yahoo.cn       smtp.mail.yahoo.com	                        25	 无
+yahoo.com.cn	pop.mail.yahoo.com.cn   smtp.mail.yahoo.com.cn	                    25	 无
+yahoo.com	    pop.mail.yahoo.com  	smtp.mail.yahoo.com
+yahoo.com.cn	pop.mail.yahoo.com.cn	smtp.mail.yahoo.com.cn
+yahoo.com.tw	pop.mail.yahoo.com.tw	smtp.mail.yahoo.com.tw
+yahoo.com.hk	pop.mail.yahoo.com.hk	smtp.mail.yahoo.com.hk
+yahoo.com.mx	pop.mail.yahoo.com.mx	smtp.mail.yahoo.com.mx
+yahoo.com.br	pop.mail.yahoo.com.br	smtp.mail.yahoo.com.br
+yahoo.com.ar	pop.mail.yahoo.com.ar	smtp.mail.yahoo.com.ar
+yahoo.com.au	pop.mail.yahoo.com.au	smtp.mail.yahoo.com.au
+yahoo.co.kr	    pop.mail.yahoo.co.kr	smtp.mail.yahoo.co.kr
+yahoo.co.uk	    pop.mail.yahoo.co.uk	smtp.mail.yahoo.co.uk
+yahoo.co.jp	    pop.mail.yahoo.co.jp	smtp.mail.yahoo.co.jp
+yahoo.ca	    pop.mail.yahoo.ca		smtp.mail.yahoo.ca
+yahoo.dk	    pop.mail.yahoo.dk		smtp.mail.yahoo.dk
+yahoo.de	    pop.mail.yahoo.de		smtp.mail.yahoo.de
+yahoo.fr	    pop.mail.yahoo.fr		smtp.mail.yahoo.fr
+yahoo.es	    pop.mail.yahoo.es		smtp.mail.yahoo.es
+yahoo.it	    pop.mail.yahoo.it		smtp.mail.yahoo.it
+yahoo.se	    pop.mail.yahoo.se		smtp.mail.yahoo.se
+yahoo.no	    pop.mail.yahoo.no		smtp.mail.yahoo.no
+hotmail.com	    pop.live.com            smtp.live.com		                        25	 tls
+msn.com	   	    pop.live.com            smtp.live.com		                        25	 tls
+msn.cn		   	pop.live.com            smtp.live.com		                        25	 tls
+live.com	   	pop.live.com            smtp.live.com		                        25	 tls
+live.cn	   	    pop.live.com            smtp.live.com		                        25	 tls:
+gmail.com	   	pop.gmail.com           smtp.gmail.com		                        465	 ssl
+163.com	   	    pop.163.com             smtp.163.com		                        25	 无
+126.com	   	    pop.126.com             smtp.126.com		                        25	 无
+163.net	   	    pop.163.net             smtp.163.net		                        25	 无
+yeah.net	   	pop.yeah.com            smtp.yeah.com		                        25	 无
+qq.com		   	pop.qq.com              smtp.qq.com		                            25	 无
+foxmail.com	    pop.foxmail.com         smtp.foxmail.com	                        25	 无
+foxmail.com.cn  pop.foxmail.com.cn      smtp.foxmail.com.cn
+sina.com	   	pop.sina.com	        smtp.sina.com		                        25	 无
+sina.com.cn	   	pop.sina.com.cn         smtp.sina.com.cn	                        25	 无
+sohu.com	   	pop.sohu.com            smtp.sohu.com		                        25	 无
+sohu.net        pop.sohu.net            smtp.souhu.net
+21cn.com	   	pop.21cn.com            smtp.21cn.com		                        25	 无
+21cn.net	   	pop.21cn.net            smtp.21cn.net		                        25	 无
+139.com	   	    pop.139.com             smtp.139.com		                        25	 无
+263.net	   	    pop.263.net             smtp.263.net		                        25	 无
+china.com	   	pop.china.com           smtp.china.com		                        25	 无
+alibaba.com.cn	pop.alibaba.com.cn 	    smtp.alibaba.com.cn	                        25	 无
+189.cn          pop.189.cn              smtp.189.cn
+ruyi.com        pop.ruyi.com            smtp.ruyi.com
+263.sina.com    pop.263.sina.com        smtp.263.sina.com
+Sogou.com       pop3.Sogou.com          smtp.Sogou.com
+tianya.cn       pop.tianya.cn           smtp.tianya.cn
+wo.com.cn       pop.wo.com.cn           smtp.wo.com.cn
+gmx.com         pop.gmax.com            smtp.gmx.com
+aol.com         pop.aol.com             smtp.aol.com 
+
+
+
+
+收费邮箱:
+188.com	   	    pop.188.com             smtp.188.com		                        25	 无
+vip.163.com	   	pop.vip.163.com         smtp.vip.163.com	                        25	 无
+vip.sohu.com	pop.vip.sohu.com	    smtp.vip.sohu.com	                        25	 无
+vip.sina.com	pop.vip.sina.com        smtp.vip.sina.com	                        25	 无
+263.net         pop.263.net             smtp.263.net
+263.net.cn      pop.263.net.cn          smtp.263.net.cn
+hainan.com      pop3.hainan.com         smtp.hainan.com
+china.com       pop.china.com           smtp.china.com
