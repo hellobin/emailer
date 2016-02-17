@@ -1,5 +1,0 @@
-1.recipients目录下放的是收件人列表
-2.senders目录下存放的是有效发件人列表 格式为 邮箱地址：邮箱密码（gmail除外，对于gmail这儿需要填的是生成的application-specific passwords）
-以上两个目录下不要放其它文件，每次执行时分别只放一个列表即可
-3.config.ini为邮件的配置，其中第一行为邮件主题，其它行为HTML编辑的邮件内容，建议每一行以开始标签（start tags）开始，以结束标签（end tags）结束
-3.双击emailer_1.2.exe执行即可
